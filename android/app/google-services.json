@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633639993845",
+    "project_id": "weed-detection-zjl7wn",
+    "storage_bucket": "weed-detection-zjl7wn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633639993845:android:6231dc4fad216d1b6760bc",
+        "android_client_info": {
+          "package_name": "com.mycompany.weeddetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfOP-p0XY5-ryMcVbmdGqx5kbWqqaZcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
